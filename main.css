@@ -1,0 +1,67 @@
+/*Only changes the style of the headline/subhead*/
+
+.chakra-petch-semibold {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h1{
+  font-family: "Chakra Petch", serif;
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  padding-top: 5px;
+}
+
+h2{
+  font-family: "Chakra Petch", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/*paragraph style*/
+
+p{
+  font-family: "sans-serif;", serif;
+  max-width: 1000px;
+  padding: 1px;
+}
+
+/*body style*/
+div.text{
+margin: auto;
+max-width: 800px;
+background-color: #whitesmoke;
+padding: 40px;
+padding-top: 1PX;
+}
+
+/*img/subhead/byline/heading style*/
+
+div.container{
+margin: auto;
+max-width: 70%;
+background-color: #d5cbda;
+padding: 40px;
+padding-top: 5px;
+padding-bottom: 5px ;
+}
+
+/*background style*/
+
+body{
+  background-color: #d5cbda;}
+
+figcaption{
+  font-style: italic;
+  font-family: "sans-serif;", serif;
+}
+
+figure{max-width: 600px; margin: auto;}
+img{ 
+  margin-inline: auto;
+  padding-bottom: 2px;
+  max-width: 100%;}
+
